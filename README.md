@@ -1,6 +1,7 @@
 Projekttitel
 
 Kurzbeschreibung
+Dieses Projekt wurde online auf GitHub bearbeitet.
 
 Zielplattform
 
