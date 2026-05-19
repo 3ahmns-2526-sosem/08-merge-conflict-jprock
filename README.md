@@ -1,5 +1,5 @@
-# 08-helloGH-jprock
-
-Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
-
-Hello GitHub: erstes Repository onlinee angelegt.
+Projekttitel
+Kurzbeschreibung
+Zielplattform
+Screenshot
+![Screenshot](Assets/MyGame/Screenshots/screenshot.png)
